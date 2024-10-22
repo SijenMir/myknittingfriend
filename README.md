@@ -1,6 +1,7 @@
 # myknittingfriend
 
-뜨개 수배령
+뜨개 수배령 from jyj
+https://www.figma.com/design/MFt6NCxcULFXZy5I7O98In/%EB%9C%A8%EC%B9%9C-%EC%88%98%EB%B0%B0%EB%A0%B9?m=auto&t=Qjv7L0bOFu8D8u7E-1
 
 ## Getting Started
 
